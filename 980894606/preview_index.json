@@ -1,7 +1,7 @@
 {
   "qq_number": "576517550",
   "group_number": "980894606",
-  "updated_at": "2026-04-23T15:52:38.682559",
+  "updated_at": "2026-05-31T08:27:38+00:00",
   "skins": [
     {
       "name": "乐妍贴纸底包1",
@@ -194,6 +194,12 @@
       "file": "惡魔の搜索并发送融合.bds",
       "thumb": "惡魔の搜索并发送融合.bds_py_26_light_thumb.png",
       "full": "惡魔の搜索并发送融合.bds_py_26_light.png"
+    },
+    {
+      "name": "惡魔性格实在不讨喜融合",
+      "file": "惡魔性格实在不讨喜融合.bdi",
+      "thumb": "惡魔性格实在不讨喜融合.bdi_py_26_light_thumb.png",
+      "full": "惡魔性格实在不讨喜融合.bdi_py_26_light_thumb.png"
     }
   ]
 }
